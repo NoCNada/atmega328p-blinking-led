@@ -71,7 +71,7 @@ int main(void)
     while (1) 
     {
 
-//bidou xddd
+//bidou xddd joojjojojoo
 //		while(!(flagByte & 0x01)){
 //			flagByte &= ~0x01;
 			//if(TIFR0 & (1 << TOV0)){
